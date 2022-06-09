@@ -4,7 +4,15 @@ public class SingleResponsibility3 {
 
     public static void main(String[] args) {
         Vehicle roadVehicle = new Vehicle();
-        
+
+        roadVehicle.runRoad("单车");
+        roadVehicle.runWater("军舰");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+
     }
 
 
