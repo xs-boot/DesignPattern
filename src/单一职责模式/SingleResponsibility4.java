@@ -7,6 +7,10 @@ public class SingleResponsibility3 {
         roadVehicle.runRoad("单车");
         roadVehicle.runWater("军舰");
         roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
+        roadVehicle.runAir("飞机");
     }
 
 
